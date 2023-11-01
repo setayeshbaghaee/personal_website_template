@@ -9,6 +9,11 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [panting]
+* [drawing]
+* [listening music]
+* [watch movies]
+
+
 
 
