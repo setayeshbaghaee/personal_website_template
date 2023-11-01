@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "setayesh"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "setayesh" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -111,12 +111,12 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm the best student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : setayesh.baghaee@gmail.com
+  twitter: setayesh_b
+  linkedin: setayesh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: setayeshbaghaee
+  instagram: setayesh
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
