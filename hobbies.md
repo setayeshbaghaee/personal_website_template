@@ -8,11 +8,10 @@ modified: 9-14-2019
 comments: false
 ---
 
-
-* [panting]
-* [drawing]
-* [listening music]
-* [watch movies]
+* sleeping
+* painting
+* drawing
+* watching movies
 
 
 
