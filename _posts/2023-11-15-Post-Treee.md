@@ -7,10 +7,7 @@ title: درخت و جنگل من
 
 <p style="text-align: right; font-family: B nazanin ;font-size:150%; "> برای رسم درخت از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میکنیم. در ابتدا میاییم یک تابع تعریف میکنیم که رسم تنه و دوشاخه کنارش را نشان میدهد و در نهایت دوباره تابع را صدا میکنیم<p>
 
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+![123456](/assets/images/123456.JPG)
 
 <p style="text-align: right; font-family: B nazanin ; font-size:150%;">   :کد من به این صورت است</p>
 <pre>
