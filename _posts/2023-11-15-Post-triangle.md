@@ -1,44 +1,40 @@
 ---
 layout: posts
-title: درخت و جنگل من
+title: فرکتال مثلث
 ---
+<h1 style="text-align: center; font-family: B titr;"> عکس فرکتال مثلث</h1>
+<a>
+<img src="Capture.JPG" >
+<img src="1234568789.JPG" >
+</a>
+<br><br>
 
-<h1 style="text-align: center; font-family: B titr;">عکس درخت و جنگل</h1>
+<p style="text-align: right; font-family: B nazanin ; font-size:150%; "> برای رسم این فرکتال از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میزنیم تا شکل نهایی حاصل شود<p>
 
-<p style="text-align: right; font-family: B nazanin ;font-size:150%; "> برای رسم درخت از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میکنیم. در ابتدا میاییم یک تابع تعریف میکنیم که رسم تنه و دوشاخه کنارش را نشان میدهد و در نهایت دوباره تابع را صدا میکنیم<p>
-![123456](/assets/123456.jpg)
-
-<p style="text-align: right; font-family: B nazanin ; font-size:150%;">   :کد من به این صورت است</p>
+<br><br>
 <pre>
--    import turtle
--       def tree (d,r,t):
--        if d<10 :
--            turtle.fillcolor("green")
--            turtle.begin_fill()
--            turtle.circle(d/2)
--            turtle.end_fill()
--    
+-   import turtle
+
+-    def triangle(d):
+-        if d < 5:
+-            return    
+-        for _ in range(3):
+-            triangle(d/2)
+-            turtle.forward(d)
 -            
--            return
--       turtle.pensize(t)
--        turtle.forward(d)
--        turtle.left(r)
--        tree (d*0.7,r, t*0.7)
--        turtle.right(2*r)
--        tree (d * 0.7,r, t*0.7)
--        turtle.left(r)
--        turtle.backward(d)
+-            turtle.left(120)
 -    
--    
+-    turtle.tracer(0)
 -    turtle.speed(0)
--    turtle.pencolor("brown")
--    turtle.left(90)
--    tree(90,30, 8)
+-    triangle(200)
+-    turtle.update()
 -    turtle.mainloop()
-    
 </pre>    
+  
+<br><br>
 
-<p style="text-align: right; font-family: B nazanin ; font-size:150%; ">  عکس فرکتال مثلث و کد مثلث من رو هم میتونید با کلیک روی 
-<a herf="file:///C:/git/FC02031/s9/tree.html">فرکتال مثلث </a>  ببینید
 
-
+<p style="text-align: right; font-family: B  nazanin ; font-size:150%; "> عکس درخت و کد درخت من رو هم میتونید با کلیک روی 
+<a herf="http://file:///C:/git/FC02031/s9/tree.html">درخت </a>
+    ببینید </p>
+   
