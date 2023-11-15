@@ -43,6 +43,6 @@ title: درخت و جنگل من
 </pre>    
 
 <p style="text-align: right; font-family: B nazanin ; font-size:150%; ">  عکس فرکتال مثلث و کد مثلث من رو هم میتونید با کلیک روی 
-<a herf="file:///C:/git/FC02031/s9/tree.html">فرکتال مثلث </a>  ببینید
+<a herf="https://setayeshbaghaee.github.io/Post-feractal/">فرکتال مثلث </a>  ببینید
 
 
