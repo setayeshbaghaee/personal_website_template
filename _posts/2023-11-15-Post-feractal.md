@@ -4,7 +4,7 @@ title: فرکتال مثلث
 ---
 <h1 style="text-align: center; font-family: B titr;"> عکس فرکتال مثلث</h1>
 
-![alt text](../assets/images/Capture.jpg "Feractal Picture")
+![alt text](../assets/images/Capture.JPG "Feractal Picture")
 
 <br><br>
 
