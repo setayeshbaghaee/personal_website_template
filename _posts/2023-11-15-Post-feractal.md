@@ -35,6 +35,6 @@ title: فرکتال مثلث
 
 
 <p style="text-align: right; font-family: B  nazanin ; font-size:150%; "> عکس درخت و کد درخت من رو هم میتونید با کلیک روی 
-<a herf="http://file:///C:/git/FC02031/s9/tree.html">درخت </a>
+<a herf="https://setayeshbaghaee.github.io/Post-Treee/">درخت </a>
     ببینید </p>
    
