@@ -11,7 +11,6 @@ title: درخت و جنگل من
 ![alt text](../assets/images/123456.JPG "Tree Picture")
 <br><br>
 
-![alt text](../assets/images/j5.JPG "jangule Picture")
 
 
 
