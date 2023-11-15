@@ -3,10 +3,9 @@ layout: posts
 title: فرکتال مثلث
 ---
 <h1 style="text-align: center; font-family: B titr;"> عکس فرکتال مثلث</h1>
-<a>
-<img src="Capture.JPG" >
-<img src="1234568789.JPG" >
-</a>
+
+![alt text](../assets/images/Capture.jpg "Feractal Picture")
+
 <br><br>
 
 <p style="text-align: right; font-family: B nazanin ; font-size:150%; "> برای رسم این فرکتال از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میزنیم تا شکل نهایی حاصل شود<p>
