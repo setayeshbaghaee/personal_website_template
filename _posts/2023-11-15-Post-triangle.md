@@ -3,11 +3,13 @@ layout: posts
 title: درخت و جنگل من
 ---
 
+<h1 style="text-align: center; font-family: B titr;">عکس درخت و جنگل</h1>
 
-<p style="text-align: right; font-family: B nazanin ;font-size:100%; "> برای رسم درخت از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میکنیم. در ابتدا میاییم یک تابع تعریف میکنیم که رسم تنه و دوشاخه کنارش را نشان میدهد و در نهایت دوباره تابع را صدا میکنیم<p>
+<p style="text-align: right; font-family: B nazanin ;font-size:150%; "> برای رسم درخت از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میکنیم. در ابتدا میاییم یک تابع تعریف میکنیم که رسم تنه و دوشاخه کنارش را نشان میدهد و در نهایت دوباره تابع را صدا میکنیم<p>
 
-<p style="text-align: right; font-family: B nazanin ; font-size:100%;">   :کد من به این صورت است</p>
-
+![123456](img/export.png?raw=true)
+<p style="text-align: right; font-family: B nazanin ; font-size:150%;">   :کد من به این صورت است</p>
+<pre>
 -    import turtle
 -       def tree (d,r,t):
 -        if d<10 :
@@ -34,9 +36,9 @@ title: درخت و جنگل من
 -    tree(90,30, 8)
 -    turtle.mainloop()
     
-    
+</pre>    
 
-<p style="text-align: right; font-family: B nazanin ; font-size:100%; ">  عکس فرکتال مثلث و کد مثلث من رو هم میتونید با کلیک روی 
+<p style="text-align: right; font-family: B nazanin ; font-size:150%; ">  عکس فرکتال مثلث و کد مثلث من رو هم میتونید با کلیک روی 
 <a herf="file:///C:/git/FC02031/s9/tree.html">فرکتال مثلث </a>  ببینید
 
 
