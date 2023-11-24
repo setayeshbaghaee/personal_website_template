@@ -12,7 +12,7 @@ title: Photos made with AI
 <p>
 <p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">Wooden hut in the autumn forest<p>
 
-![alt text](../assets/images/first.JPG "first")
+![alt text](../assets/images/first.jpg "first")
 
 
 <p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">A wooden cabin in an autumn forest with beautiful autumn colors<p>
