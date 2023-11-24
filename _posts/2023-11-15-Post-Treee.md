@@ -45,7 +45,7 @@ title: درخت و جنگل من
     turtle.mainloop()
 </pre>    
 
-![alt text](../assets/images/j5.png "jangule Picture")
+![alt text](../assets/images/j5.JPG "jangule Picture")
 
 
 
