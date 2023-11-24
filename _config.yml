@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "setayesh"
+title                    : "Setayesh"
 title_separator          : "-"
-name                     : "setayesh" 
+name                     : "Setayesh" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "setayesh baghaee"
+  name             : "Setayesh Baghaee"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : I'm studying cumputer engineering
   location         : "تهران"
