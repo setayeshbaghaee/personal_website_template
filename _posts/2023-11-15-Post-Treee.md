@@ -46,7 +46,6 @@ title: درخت و جنگل من
 
 ![alt text](../assets/images/j5.JPG "jangule Picture")
 
-<p style="text-align: right; font-family: B nazanin ; font-size:150%; ">  عکس فرکتال مثلث و کد مثلث من رو هم میتونید با کلیک روی 
-<a herf="https://setayeshbaghaee.github.io/Post-feractal/">فرکتال مثلث </a>  ببینید
++``
 
 

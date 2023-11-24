@@ -32,7 +32,4 @@ title: فرکتال مثلث
 <br><br>
 
 
-<p style="text-align: right; font-family: B  nazanin ; font-size:150%; "> عکس درخت و کد درخت من رو هم میتونید با کلیک روی 
-<a herf="https://setayeshbaghaee.github.io/Post-Treee/">درخت </a>
-    ببینید </p>
    
