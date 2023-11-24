@@ -4,7 +4,7 @@ title: Photos made with AI
 ---
 <h1 style="text-align: center; font-family:Times New Roman (Headings CS);"> Photos made with AI</h1>
 
-![alt text](../assets/images/Capture.JPG "first")
+![alt text](../assets/images/lastone.JPG "finall")
 
 <p style="font-family: Times New Roman (Headings CS) ; font-size:100%; "> On "bing.com/create", you can describe an image with words and get an impression of artificial intelligence
 <p>
@@ -12,7 +12,7 @@ title: Photos made with AI
 <p>
 <p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">Wooden hut in the autumn forest<p>
 
-![alt text](../assets/images/first.JPG "firt")
+![alt text](../assets/images/first.JPG "first")
 
 
 <p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">A wooden cabin in an autumn forest with beautiful autumn colors<p>
