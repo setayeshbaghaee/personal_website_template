@@ -17,7 +17,7 @@ title: درخت و جنگل من
 
 <p style="textalign: right; fontfamily: B nazanin ; fontsize:150%;">   :کد من به این صورت است</p>
 <pre>
----python
+
     import turtle
        def tree (d,r,t):
         if d<10 :
@@ -43,10 +43,9 @@ title: درخت و جنگل من
     turtle.left(90)
     tree(90,30, 8)
     turtle.mainloop()
----    
 </pre>    
 
-![alt text](../assets/images/j5.JPG "jangule Picture")
+![alt text](../assets/images/j5.png "jangule Picture")
 
 
 
