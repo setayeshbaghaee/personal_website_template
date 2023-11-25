@@ -3,7 +3,7 @@ layout: posts
 title: Photos made with AI
 ---
 
-![alt text](../assets/images/1.JPG "last")
+![alt text](../assets/images/1.jpg "last")
 
 On "bing.com/create", you can describe an image with words and get an impression of artificial intelligence.
 In this post, I will show you what I got from AI by saying each sentence.
@@ -27,5 +27,5 @@ And every time you give a repeated sentence to this AI, it will deliver you a se
 
 And at the end i like this image more than other.
 
-![alt text](../assets/images/1.JPG "last")
+![alt text](../assets/images/1.jpg "last")
 
