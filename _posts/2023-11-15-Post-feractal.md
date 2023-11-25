@@ -11,7 +11,7 @@ title: فرکتال مثلث
 
 <br><br>
 <pre>
----python
+
    import turtle
 
     def triangle(d):

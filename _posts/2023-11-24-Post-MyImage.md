@@ -6,27 +6,26 @@ title: Photos made with AI
 
 ![alt text](../assets/images/lastone.JPG "finall")
 
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; "> On "bing.com/create", you can describe an image with words and get an impression of artificial intelligence
-<p>
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">In this post, I will show you what I got from AI by saying each sentence
-<p>
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">Wooden hut in the autumn forest<p>
+On "bing.com/create", you can describe an image with words and get an impression of artificial intelligence.
+In this post, I will show you what I got from AI by saying each sentence.
+
+Wooden cabin in the autumn forest.
 
 ![alt text](../assets/images/first.jpg "first")
 
 
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">A wooden cabin in an autumn forest with beautiful autumn colors<p>
+A wooden cabin in an autumn forest with beautiful autumn colors.
 
 ![alt text](../assets/images/second.JPG "second")
 
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">A wooden hut in the autumn forest with beautiful autumn colors next to the waterfall<p>
+A wooden hut in the autumn forest with beautiful autumn colors next to the waterfall.
 
 ![alt text](../assets/images/third.JPG "third")
 
 
 ![alt text](../assets/images/4th.JPG "4th")
 
-<p style="font-family: Times New Roman (Headings CS) ; font-size:100%; ">And at the end i like this image more than other<p>
+And at the end i like this image more than other.
 
 ![alt text](../assets/images/lastone.JPG "last")
 
