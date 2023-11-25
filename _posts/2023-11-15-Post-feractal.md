@@ -7,9 +7,8 @@ title: فرکتال مثلث
 
 ![alt text](../assets/images/Capture.JPG "Feractal Picture")
 
-<p style="textalign: right; fontfamily: B nazanin ; fontsize:150%; "> برای رسم این فرکتال از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میزنیم تا شکل نهایی حاصل شود<p>
+ برای رسم این فرکتال از تابع بازگشتی استفاده میکنیم یعنی یک تابع را درون خودش صدا میزنیم تا شکل نهایی حاصل شود
 
-<br><br>
 <pre>
 
    import turtle
@@ -31,7 +30,6 @@ title: فرکتال مثلث
 
 </pre>    
   
-<br><br>
 
 
    

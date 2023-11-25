@@ -9,7 +9,7 @@ comments: false
 gallery:
   - url: /assets/images/lastone.jpg
     image_path: /assets/images/lastone.jpg
-    alt: "placeholder image 1"
+    alt: "placeholder image lastone"
     title: "Image lastone title caption"
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
