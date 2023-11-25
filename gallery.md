@@ -7,8 +7,8 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/lastone.jpg
-    image_path: /assets/images/lastone.jpg
+  - url: /assets/images/lastone.JPG
+    image_path: /assets/images/lastone.JPG
     alt: "placeholder image lastone"
     title: "Image lastone title caption"
   - url: /assets/images/2.jpg

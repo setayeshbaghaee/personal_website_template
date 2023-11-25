@@ -10,7 +10,7 @@ In this post, I will show you what I got from AI by saying each sentence.
 
 Wooden cabin in the autumn forest.
 
-![alt text](../assets/images/first.jpg "first")
+![alt text](../assets/images/first.JPG "first")
 
 
 A wooden cabin in an autumn forest with beautiful autumn colors.
