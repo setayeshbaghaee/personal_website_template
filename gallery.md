@@ -7,10 +7,10 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/lastone.JFIF
-    image_path: /assets/images/lastone.JFIF
+  - url: /assets/images/Capture1.JPG
+    image_path: /assets/images/lastone.Jpg
     alt: "placeholder image 1"
-    title: "Image lastone title caption"
+    title: "Image 1 title caption"
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
