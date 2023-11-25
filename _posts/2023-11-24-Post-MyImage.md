@@ -2,7 +2,6 @@
 layout: posts
 title: Photos made with AI
 ---
-<h1 style="text-align: center; font-family:Times New Roman (Headings CS);"> Photos made with AI</h1>
 
 ![alt text](../assets/images/lastone.JPG "finall")
 
